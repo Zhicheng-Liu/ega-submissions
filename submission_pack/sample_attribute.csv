@@ -1,0 +1,952 @@
+attribute_type
+ArrayExpress-Species
+ArrayExpress-Sex
+DONOR
+SAMPLE_TYPE
+TISSUE_TYPE
+Sample Description
+ENA-SUBMISSION-TOOL
+DATASET_ACCESSION
+"translation missing: en, metadata, sample, sample_metadata, sample_description"
+Sample ID
+sample type
+Donor ID
+correspondence in publication
+geographic location
+sample source
+ArrayExpress-CellType
+ArrayExpress-Immunoprecipitate
+Orientation of reads
+"""Enrichment Type"""
+"""Size of enriched Region"""
+"""Tissue Preparation Type"""
+"""Sequencing Type"""
+Strain
+ArrayExpress-StrainOrLine
+EGA-Disease
+ArrayExpress-Genotype
+ArrayExpress-Phenotype
+ArrayExpress-DevelopmentalStage
+ArrayExpress-DiseaseState
+ArrayExpress-Compound
+ArrayExpress-Dose
+ArrayExpress-GrowthCondition
+ArrayExpress-OrganismPart
+ArrayExpress-TimePoint
+EGA-Treatment
+Tissue type
+Gender
+Isolation source
+MLH1 copy number status
+Catalog number in American Type Culture Collection (ATCC)
+EGA-Subject
+ArrayExpress-RNAi
+DISEASE
+CLASSIFICATION
+ETHNICITY
+VITAL_STATUS
+"""DONOR"
+_2
+_1
+Sex
+Specimen ID
+MOLECULE
+BIOMATERIAL_PROVIDER
+BIOMATERIAL_TYPE
+CELL_TYPE
+MARKERS
+PASSAGE_IF_EXPANDED
+DONOR_ID
+DONOR_AGE
+DONOR_HEALTH_STATUS
+DONOR_SEX
+DONOR_ETHNICITY
+phenotype
+subject_id
+disease_site
+Characteristics Gender 
+Characteristics Disease_state
+Characteristics Disease_state-MESH
+Characteristics Case-Control
+Characteristics Organism
+Characteristics Region
+Characteristics Organism_Part-MESH
+Characteristics Organism_Part
+Characteristics Cell line
+Characteristics Region#
+Characteristics Stenosis 50
+Characteristics sex
+Characteristics Case-control status
+Characteristics CE Source 
+Characteristics Age
+Characteristics TOAST type
+Characteristics statin_tc
+Characteristics Metforminlinear
+CharacteristicsStatin-LDL
+Characteristics MetforminTargetl
+Characteristics Population
+PID
+IDNUM
+TISSUE
+ENA-CHECKLIST
+Characteristics [Cell line]-MESH
+Characteristics [Cell line]
+Characteristics [Organism_Part]-MESH
+Characteristics [Disease_state]-MESH
+Characteristics [Organism_Part]
+Characteristics [Case-Control]
+Characteristics [Organism]
+Characteristics [Disease_state]
+Characteristics [lab] 
+Characteristics [Region]
+tumour
+Characteristics [Gender] 
+Characteristics [Age]
+Characteristics [Center]
+Characteristics [PID]
+Characteristics [IDNUM]
+Characteristics [Sample_type]
+Characteristics [Sample_type]-MESH
+Characteristics [Disease_subtype]
+t_class
+n_class
+m_class
+treatment
+Characteristics [METASTASIS]
+Characteristics [TNM]
+Characteristics [DATE OF DIAGNOSES]
+Characteristics [ANATOMICAL LOCATION]
+Characteristics [RADIOTHERAPY]
+Characteristics [LIVER SURGERY]
+Characteristics [ENUCLEATION]
+Characteristics [Histology]
+Characteristics [CURRENT STATUS (OCT 2011)]
+Characteristics [DIAMTER (mm)]
+Characteristics [THICKNESS (mm)]
+Characteristics [SYNCHRONOUS METASTASIS]
+SAMPLE
+ORGANISM_PART
+AGE
+INDIVIDUAL
+INDIVIDUAL_GENETIC_CHARACTERISTICS
+DISEASE_STATE
+ANONYMISED_NAME
+NAME
+LINE
+"translation missing: en, metadata, sample, metadata, donor_id, label"
+
+other-identifiers
+Characteristics [Disease_state]-MESH
+Characteristics [Organism_Part]-MESH
+Characteristics      [Case-Control]
+Characteristics        [Cell line]-MESH
+Characteristics        [Cell line]
+Characteristics            [Region]
+POOL_ID
+POOLED_DONOR_IDS
+population_id
+IHEC REFERENCE EPIGENOME IDENTIFIER
+DIFFERENTIATION_METHOD
+DIFFERENTIATION_STAGE
+LINEAGE
+MEDIUM
+Mol. Subgroup
+DOB
+DODx
+DOD/Last FU
+Radiology
+tumour pattern
+CGH pattern
+Actual TP53 mutation location
+ACVR1 mutation location
+Telomerase/ALT Call
+Post treatment
+Sex_chromosome_karyotype
+smoking_history
+GENETIC_CHARACTERISTICS
+Dx
+Subgroup
+Whole Genome
+DOD
+Leptomeningeal Spread
+Radiation Necrosis
+Extreme Pleomorphism
+Chemo Details
+TP53 Mutation
+ACVR1 Mutation
+Telomerase/ALT
+HIST1H3B K27M Mutation
+HIST1H3B
+Rads details
+Patient ID
+Anatomic Site
+Pathology
+Pathology Occurrence
+family_id
+Batch
+sequence_id
+Cell_line
+Tissue_supergroup
+Metastatic_Tissue
+Primary_Tissue
+Tissue_Diagnosis
+Age_Unit
+Growth_Media
+Freeze_Media
+Comments
+Date_6 month release
+Date:12 month release
+Mode of Inheritance
+panel
+_TISSUE_DEPOT
+COLLECTION_METHOD
+Tissue.Diagnosis
+MSI.Status
+Tumor.differentiation
+TNM.code
+Stage
+POOLED_ALIQUOT_IDS
+Assembly_ID
+SampleID
+EGA_WES_ID
+SAMPLE_ONTOLOGY_URI
+IHEC_REFERENCE_EPIGENOME_IDENTIFIER
+TISSUE_DEPOT
+Celltype
+Differentiation
+Grade
+Characteristics [Bio_sample_accession]
+CELL_EXTRACTION_PROTOCOL
+Characteristics [FatherID]
+Characteristics [MotherID]
+Characteristics        [Gender]
+AssemblyID
+DiseaseState
+POOL_DETAILS
+FAMILY ROLE
+other
+label
+patient
+region
+histology
+histological_stage
+lymph_node
+smoking_status
+smoking_cessation
+smoking_pack_years
+Characteristics[Sex]
+Characteristics[DiseaseStatus]
+Characteristics      [lndividual ID]
+Characteristics            [Family ID]
+Material
+disease state
+project
+cell type
+date of derivation
+method of derivation
+growing conditions
+sop url
+Characteristics        [BIOMATERIAL_PROVIDER]
+Characteristics [TAXON_ID]
+Characteristics [PASSAGE_IF_EXPANDED]
+Characteristics [MARKERS] 
+Characteristics [DONOR_SEX] 
+Characteristics [COMMON_NAME]
+Characteristics [DONOR_ETHNICITY]
+Characteristics [CELL_TYPE]
+Characteristics [MOLECULE]
+Characteristics [DONOR_ID]
+Characteristics [DONOR_AGE]
+Characteristics [CELL_EXTRACTION_PROTOCOL] 
+Characteristics [CELL_TYPE]-MESH
+Characteristics [DONOR_HEALTH_STATUS]
+Characteristics [DISEASE]
+Characteristics        [BIOMATERIAL_TYPE]
+Characteristics [SCIENTIFIC_NAME]
+DISEASE_ONTOLOGY_URI
+Sequencing
+CULTURE_CONDITIONS
+sample-id-in-EGAS00001000906
+Pathology T
+country
+smoking history
+histological stage
+location of tumour
+pleural invasion
+vascular invasion
+therapy
+DONOR_AGE_UNIT
+DONOR_LIFE_STAGE
+bam_id
+donor ethnicity
+genotype
+biomaterial provider
+ï¿¼ï¿¼BIOMATERIAL_PROVIDER
+sample_attributes
+tissue origin
+SubjectID
+Analyte_type
+Is_tumor
+Characteristics [Body Mass Index]-MESH
+Characteristics            [Age at collection]-MESH
+Characteristics [Age at T2D diagnosis]
+Characteristics [T2D Case-Control]
+Characteristics [Age at T2D diagnosis]-MESH
+Characteristics [Body Mass Index]
+Characteristics            [Age at collection]
+protocol
+comment
+Characteristics[gender]
+Characteristics[phenotype]-MESH
+Characteristics[phenotype]
+Characteristics[dna_source]
+ER.status
+HER2.status
+pCR.vs.RD
+sample.type
+N
+T
+time.in.month.tissue.to.DNA
+time.in.month.tissue.to.seq
+SAMPLE_ID
+relation
+Characteristics[DONOR_ID]
+Characteristics[DONOR_ETHNICITY]
+Characteristics[SCIENTIFIC_NAME]
+Characteristics[BIOMATERIAL_PROVIDER]
+Characteristics[Hybridization Name]
+Characteristics[Labeled Extract Name]
+Characteristics[TISSUE_TYPE]
+Characteristics[PASSAGE_IF_EXPANDED]
+Characteristics[t(IGH)]
+Characteristics[DONOR_HEALTH_STATUS]
+Characteristics[Extract Name]
+Characteristics[Hyperdiploidy]
+Characteristics[DONOR_SEX] 
+Characteristics[Term Source REF]
+Characteristics[COMMON_NAME]
+Characteristics[DISEASE]
+Characteristics[del(TP53)]
+Characteristics[CELL_TYPE]-MESH
+Characteristics[Label]
+Characteristics[Protocol REF]
+Characteristics[BIOMATERIAL_TYPE]
+Characteristics[Material Type]
+Characteristics[CELL_TYPE]
+Characteristics[DONOR_AGE]
+Characteristics[MARKERS] 
+Characteristics[TAXON_ID]
+Characteristics[MOLECULE]
+Characteristics[Array Design REF]
+Caste
+Developmental stage
+phenotype_height
+phenotype_weight
+phenotype_bmi
+population
+cause_of_death
+Characteristics [MMA percent] 
+Characteristics [Sample Cohort Year] 
+Characteristics [DMA percent] 
+Characteristics [Weight] 
+Characteristics [BMI] 
+Characteristics [Height] 
+Characteristics [As Adjusted] 
+Characteristics [iAs percent] 
+status
+Characteristics [SAMPLE_ONTOLOGY_URI]
+Characteristics [TISSUE_TYPE]
+Characteristics     [Case-Control]
+NMFCluster
+FAF1_CDKN2C_summary
+FAM46C_summary
+CKS1B_summary
+chr.1q_summary
+chr.12p_summary
+RB1_summary
+DIS3_summary
+chr.13_summary
+TRAF3_summary
+CYLD_summary
+WWOX_summary
+TP53_summary
+chr.5_summary
+chr.9_summary
+chr.15_summary
+HRD
+Translocation_consensus
+MYCtranslocation
+Kataegis
+"""Donor ID"""
+"""Gender"""
+"""Phenotype"""
+"""Biopsy site"""
+Characteristics 
+Characteristics -MESH
+gender_inferred
+Tumor_region
+INTERNAL_ID
+EFO_0004340
+Isolation centre
+Cryopreservation
+EFO_0000246
+"Smoking status (evers moker, 0=no, 1=yes)"
+Characteristics [Phenotype]
+Characteristics [date_of_sample_extraction]
+anonymized_name
+Tissue of origin
+Oncogenes
+tumor_type
+organism part
+Sample_source_name
+Sample_characteristics
+sample_description
+tumor_grade
+sample_origin
+Viral Infection
+TNM
+Characteristics[SAMPLE_ONTOLOGY_URI]
+Characteristics[TISSUE_DEPOT]
+Characteristics[COLLECTION_METHOD]
+Characteristics[BATCH_NR]
+Characteristics[SAMPLE_WELL]
+Characteristics[SENTRIX_ID]
+Characteristics[SENTRIX_POSITION]
+Characteristics[ARRAY_ID]
+Characteristics[PASSED_QC]
+Characteristics[CENTRE]
+Characteristics[REPEAT]
+Characteristics[ORIGINAL_SAMPLE]
+Characteristics[CROSS_OVER]
+Characteristics[PURITY_MO]
+Characteristics[PURITY_NEU]
+Characteristics[PURITY_Tcell]
+icgc_project_code
+icgc_donor_id
+submitter_donor_id
+specimen_type
+icgc_specimen_id
+submitter_specimen_id
+icgc_sample_id
+submitter_sample_id
+aliquot_id/sample_uuid
+blood_type
+antibody_supplier
+antibody_cat_no
+antibody_lot_no
+factor_histone_mark
+metastatic_site
+phenotype2
+phenotype3
+Characteristics            [Age]
+Characteristics      [Smoker status]
+Characteristics        [DNA source]
+Characteristics            [Ethnicity]
+Characteristics      [Case(2)-Control(1)]
+donor_name
+sample_function
+sample_type2
+tissue_origin
+attribute_29_apoe_genotype
+attribute_4_clindx
+attribute_5_path_dx
+attribute_6_fh_disease
+phenotype_2
+attribute_10_cjd_prpgenotype
+attribute_11_cjd_prpresisoform
+attribute_12_cjd_subtype_class
+attribute_8_cjd_neuropath_dx
+attribute_18_mckeith_stage
+attribute_27_ubiquitin_positive
+attribute_22_picks_disease
+attribute_19_tdp43_pathology
+attribute_28_tdp43_stage
+attribute_20_cap_caa_stage
+attribute_16_abc_score
+attribute_23_cbd
+attribute_9_cjd_copathology
+attribute_25_nft_dementia
+attribute_24_psp
+attribute_26_fus_positive
+abc classification
+differentiation grade
+familiarity
+heredity
+laterality
+tumor volume
+smoking
+Organism
+Case-Control
+Cell line
+assay
+esophagus_location
+seq_id
+who_tnm_stage
+clinical_stage
+barcode1
+barcode2
+patient_id
+read_group
+swgs_slx
+tamseq_slx
+type
+DNA source
+familial
+flexnerwinterrosettes
+focality
+heritable
+invasive
+ismatched
+matchedwitharray
+rosettes
+sampletissue
+source
+study
+agediagnosismonths
+CTAIRWALL
+GC
+EXTRTYPE
+CTLUDENS
+Array-Should-Be-Matched-With
+sample_component
+er_status
+pair_id
+integrative_cluster
+description
+ighv_mutation_status
+library
+read_type
+antibody
+dg_age
+Pair ID
+ER Status
+Integrative Cluster
+Germline BRCA Status
+Gleason Score
+IDC-P Status
+Tissue Source
+case_solved
+centre
+city
+pi
+gene_id
+decode_wgs_barcode
+child_of_patient
+decode_wes_barcode
+subtype
+case solved?
+consanguinity
+mode_of_inheritance
+panel_number
+this patient is the parent of patient with id
+gene id
+this patient is the sibling of patient with id
+this patient is the child of patient with id
+SUBMISSION_ALIAS
+cytology
+pleomorphism
+Quartile blood lead
+Quartile Urinary lead
+cohort
+sample_name
+Attribute 2
+Attribute 1
+Body height (cm)
+BMI (m^2/kg)
+cimpclass
+fibrosis
+inflammation
+multiomicclassification
+os.delay
+os.event
+resectable
+ai_treatment
+group
+her2
+ki67
+disease_type
+paired_sample
+age_at_diagnosis_years
+passage
+cg_sample_id
+genome_coverage
+job_id
+location
+oxford_sample_id
+oxford_subject_id
+sample_site
+samples_group
+sequencing_type
+sequencingproject_id
+time_point
+notes
+publication
+TAXON_ID
+COMMON_NAME
+IGHV identity (%)
+SOX11 expression
+SCIENTIFIC_NAME
+dna_source
+geographical_region
+date_of_sample_collection
+case_or_control
+parent_of_patient
+sibling_of_patient
+aunt_uncle_of_patient
+niece_nephew_of_patient
+brain_region
+cell category
+Age at Treatment
+PreTreatment PSA
+icgc_id
+key
+origin
+pmi
+father_id
+mother_id
+BiosampleID
+External_dataset
+SRA Sample
+SourceID
+sample_uuid
+EGA_accession
+affected?
+case_solved?
+tissue_processing_method
+Disease_Course
+age_at_diagnosis
+gene_fusion
+cirrhosis (stage)
+disease tissue 1
+disease tissue 2
+redcapid
+HALT_Code
+"260.280_ratio"
+birth_weight
+dna_concentration
+frozen_embryo
+gamete_intrafallopian_transfer
+intracytoplasmic_sperm_injection
+maternal_age
+maternal_smoking
+medical_help_to_conceive
+ovarian_stimulation
+twin_no
+zygosity
+breadth_of_coverage
+depth_of_coverage
+library_preparation
+sequencing_platform
+submitted_using
+disease_tissue1
+disease_tissue2
+sample_age
+sampling site coordinates (lon;lat)
+language
+G3_STUDY_ID
+PD_STUDY_ID
+schizophrenia
+Parkinson's
+target cell type
+differentiation start date
+time point
+sampling date
+SampleOrigin
+histone_mutation
+phenotype 2
+phenotype 3
+phenotype 4
+synonym
+passage sequenced
+provider
+sample name (in bam)
+affected_unaffected
+sibling_of_patient_with_id
+sample.name
+source.name
+human_dna_perc
+sample_detail
+tnm_stage
+this_patient_is_child_of_patient_with_id
+this_patient_is_parent_of_patient_with_id
+center
+phenotype_name
+prior_phenotype
+prior_phenotype_name
+parent_of_patient_with_id
+child_of_patient_with_id
+aunt_uncle_of_patient_with_id
+idh
+multisector
+read length
+sequencing instrument
+surgery number
+bevacizumab
+carboplatin
+cetuximab
+erlotinib
+etoposid
+gemcitabin
+paclitaxel
+smoker
+microchip
+casco
+sample_isolate
+age_at_blood_collection
+blood_collection
+end_of_follow-up
+follow_up_length_in_days
+follow_up_length_in_years
+abdominal_discomfort
+alcohol__g
+alcohol_consumption__times_per_week
+bloating_distention
+bmi
+bowel_frequency
+carbohydrates__g
+cigarettes_per_week
+coffee_consumption__cups_per_day
+constipation_since
+energy_intake__kcal
+enterotype_jsd
+environment (biome)
+excluded
+fat__g
+fiber__g
+human gut environmental package
+incomplete_emptying
+inulin
+passage_of_gas
+percentage_energy_of_alcohol
+percentage_energy_of_carbohydrate
+percentage_energy_of_fat
+percentage_energy_of_protein
+physical_discomfort
+proband
+protein__g
+responders_bowelfrequency
+satisfaction
+stool_consistency
+straining
+test_period
+timepoint
+treatmentgroup
+volunteer_no
+water__g
+age group
+cmv status
+data type
+height
+race
+season
+weight
+cars
+wheight
+diagnosis
+methylation_subclass
+extract protocol
+growth protocol
+library construction protocol
+library strategy
+sequencing platform
+treatment protocol
+baso
+baso_perc
+eos
+eos_perc
+luc
+luc_perc
+lymph
+lymph_perc
+mono
+mono_perc
+neut
+neut_perc
+meta_id
+ipsc source
+affected
+Diagnosed in screening
+Metastasis
+"Time todiagnosis, days"
+this patient is the aunt/uncle of patient with id
+this patient is the niece/nephew of patient with id
+this patient is the aunt / uncle of patient with id
+this patient is the grandparent of patient with id
+this patient is the grandchild of patient with id
+birthdate
+sampling_date
+disease_status
+disease_ontology
+pool
+disease_site_ontology
+sample_type_detail
+phenotype_ontology
+this_patient_is_sibling_of_patient_with_id
+this_patient_is_twin_of_patient_with_id
+biopsy_site
+mrss
+other_organ_involvement
+PPCG ID
+bio_sample_id
+Add value
+"Age, yrs"
+Derived from
+plucking site
+elevated ldh
+primary type
+prior immunotherapy
+prior targeted therapy
+progression status
+time to progression (days)
+treatment subtype
+tumor cd8 count
+clone
+ihc_subtype
+brain_part
+gestional_age
+Best Confirmed Overall Response
+Enrollment IC
+IC Level
+TC Level
+Immune phenotype
+FMOne mutation burden per MB
+Intravesical BCG administered
+Baseline ECOG Score
+Tobacco Use History
+Met Disease Status
+Sample age
+Received platinum
+Sample collected pre-platinum
+Neoantigen burden per MB
+sizeFactor
+os
+censOS
+Lund
+Lund2
+TCGA Subtype
+binaryResponse
+_icgc_sample_id
+_icgc_donor_id
+_submitted_using
+recipient mouse group
+age at death
+sampling site
+pcr
+response
+treatment_arm
+dysplasia
+case or control
+sample site
+age (years)
+microsatellite status
+tumor location
+tumor size (mm)
+osevent
+pfs
+pfsevent
+receivedbevacizumab
+Hx_Asbestos
+MAPD
+OSCHP.File
+PD.L1_Expression
+PD.L1_H_score
+Preservation.Method
+Survival
+Survival_Months
+Tumour_subtype
+ndSNPQC
+Organisim_Part
+sample_timing
+binet_stage
+CD8T proportion (estimated)
+Granulocyte proportion (estimated)
+Monocyte proportion (estimated)
+Batch Number
+Bcell proportion (estimated)
+Submission description
+Submission identifier
+Submission title
+clone_id
+case_control_pair_id
+DONOR_HEALTH_STATUS_ONTOLOGY_URI
+ORIGIN_SAMPLE
+ORIGIN_SAMPLE_ONTOLOGY_URI
+adapter_seq
+centre id
+pipeline sample uuid
+ppcg sample id
+ppcg sample type
+preservation
+xenograft
+tumor size (cm)
+rx status
+time point in days
+bx.or.tonsillectomy
+hpv.status
+n.stage
+scan.id
+study.id
+t.stage
+DNA-Arrays Model
+Person to contact
+Area
+age in years
+body mass index
+gleason_grade_1
+gleason_grade_2
+Duration of blood processing
+library_type
+target_gene
+caseOrcontrol
+Mutation_1
+RB1_Status
+Mutation_2
+Conc
+day
+custom1
+custom2
+center_id
+ppcg_id
+ppcg_sample id
+ppcg_sample_type
+degree of differentiation
+degree of dysplasia
+tnm stage
+tumor size
+ARM
+BestResponse
+SarcomatoidFeatures
+LIVERMET
+FUHRMAN
+PriorNephrectomy
+MSKCC
+PBRM1
+VHL
+SETD2
+MTOR
+BAP1
+TP53
+pedigree_type_famid
+vcf_id
+district
+ethnolinguistic group
+AnonPatID
+AnnoRNASampleID
+AnnoTumorWESID
+AnnoNormalWESID
+barcode
+slx
+slx_barcode
+IFN-treated
+Recent-GC-treated
+cell line ID
+diseased tissue type
+age at diagnosis
+title
+subjectId_2
+subjectId_3
+subjectId_4
+subjectId_5
+subjectId_6
+subjectId_7
+subjectId_8

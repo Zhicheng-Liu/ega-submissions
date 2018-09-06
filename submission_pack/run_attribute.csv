@@ -1,0 +1,960 @@
+﻿"TAG"
+project
+insert_size_sd
+sample_ids
+
+MD5_checksum(2)
+isolation source
+col_type
+TATCCTCT
+BI project name
+May_rainwater_barcode
+gssr_id
+read_group_platform_units
+iuwy
+T1D_Diagnosed
+Barley
+source_material_id
+Program
+forward_barcode
+Comment
+pre-sequencing mix dna quantification
+MT no calls
+work_request_or_pdo
+workflow_config
+Available Channels
+read type
+accession
+run_duration_sec
+Flow cell serial number
+Tissue _weight
+Planned read length (bp) for file2
+Collection Number
+TCTTGGC
+BI Luxembourg Molecular Barcode
+Well
+processing_pipeline
+md5sums_R1file
+GADA_Level_Bin
+geographic location
+G_id
+sequencing _facility
+region_id
+CGTACTAG
+basecall_name
+AbxPreCollection
+Run center
+run_end_dt
+duration
+µg_of_DNA_in_PCR
+work_requests
+ID
+SFi Adapter
+Linker
+RNA-Seq
+BI Pyongyang Molecular Barcode
+DFDID
+prebasecalledfast5available
+run_num
+"3'Adaptor (trimming required)"
+file1-md5
+Submitted By
+protocol_ids
+batch_number
+MID1/sequence/data label/description
+dev_stage
+file_size
+Adapter_max_mismatch
+TTCGAGC
+orientation
+biological replicate
+fileman4
+loader
+CompleteGenomics sample ID
+BI lsid
+Value1 
+filenname2
+Insize_size
+tech
+July_rainwater_barcode
+ASSEMBLY
+BI GSSR sample ID
+PlateWellCollection ZMW Sets
+flower stage
+﻿sample_name
+md5sum file
+old run id
+KEY_SEQUENCE
+run_date
+description
+Flower stage
+biosample_accessin_10
+MID12/sequence/data label/description
+Veg
+DaysPostHatch
+protocol_id
+analysisagent_version
+Mbytes
+Number of reads in pass folder (ARQ)
+study_group
+Reference assembly
+read_length_mate1
+RUN_TYPE
+New Attribute
+rRNA_region
+case_control_sample_ID
+bam
+RUNS
+unmapped
+porenumtotal
+FLOWCELL_LANE_INDEX
+well
+bcallmaxlen
+env_feature
+Site
+region
+AbxExposureAbsolute
+run_name
+tissue type
+Sample_ID
+run name
+Area
+stobe
+pipelinefileprefix
+run_id
+BI GSSR Sample LSIDs
+Allele
+Value2
+Full Path
+md5sums_R2file
+biosample_accession_6
+primer_forward
+MT median depth coverage
+Value1
+library
+depth
+forward_pcr_primer_target_location
+actual_forward_read_length
+MID1
+*AGACAC
+pre-ligation dna quantification
+md5_checksum
+target site name
+run_machine_id
+HAIB_Library_Number
+MID14
+species
+file name
+Subject_ID
+Root_Veg
+MID3
+read_count
+Sequencing
+ChIP
+run number
+bioproject_acession
+md5sum file2
+target_locus_PCR
+lane_ID
+IA2A_Positive
+primer
+own ID
+host disease
+Grant
+BI molecular barcode
+      num_bases    
+toxins_profiling
+forward primer
+isolation_source
+mixed library PMA1 24h linker
+LANE
+bcallminlen
+bas.h5 file
+sample_accession
+mixed library PMA2 72h linker
+comment
+ITS1 network
+i5seq
+Number_of_tumors
+Sequencing primer
+phase
+biosample_accession_2
+seqfile_pair2 McCorrison
+bacteria 515F
+publication_sample_number
+basecaller
+mode_read_length
+arm.1TC.2nTC.
+Genotype
+BI Work Request ID
+mixed library LPS 24h linker
+mixed library PMA1 4h linker
+INSTRUMENT_MODE
+md5 Checksum (filename3)
+sequencing_run_date
+work_request
+PacBio RS sequencing kit
+flowcell_barcodes
+Y mapped reads
+sample_title
+reference_sequence
+Cold-water coral microbiomes (Paramuricea placomus) from Baltimore Canyon: raw and processed data
+active_location_URL
+actual_read_length_2
+FocusMethod
+*CCTCTC
+Flow cell lane
+project_id
+cell_subtype
+assembly name
+MID5/sequence/data label/description
+Corn
+pcr_target_locus
+BI GSSR Sample LSID
+gssr_ids
+actual_read_length_1
+SUBMISSION_ALIAS
+Insert size
+reverse_barcode
+sequencing_date
+reference_file
+standard_deviation
+reverse_pcr_primer_target_location
+stud_book_number
+birth_location
+size_Gb
+HAIB_Library_number
+run_barcodes
+cell_index
+MT length coverage
+isolate
+file name2
+"3' adaptor sequence"
+Data processing
+Run Prefix
+pore version
+sequencing direction
+target_substrate_quality
+KEYSEQ
+quality_encoding
+Buckwheat_Millet
+BI run barcode
+workflow_name
+death_date
+TCCGCTC
+poresyielding1readonly
+biosample_accessin_14
+"150923_I114_FCH3LJ5BBXX_L5_HKPLAmgoEAADRABPEI-207_1.fq.gz"
+RUN
+Meat
+LinkerPrimerSequence
+RUN_SEQUENCE_LENGTH
+geo loc name
+Tempearture
+Canberra
+MID11
+reverse primer
+Sample
+NMRC Project Name
+reloading of reagents
+geo_loc_name
+Gender
+forward_primer
+READ_INDEX 0 linker
+MID12
+FLOWCELL_LANE
+programlength_hrs
+SEQUENCING_DATE
+zmw_set
+Region
+AGTCGAC
+Control of Bacteria sample of Naju
+md5hash_filename2
+BI library construction molecular barcode
+time point
+ZNT8A_Level_Bin
+reads_length
+*ACGCGC
+lat_lon
+rg_platform_unit_lib
+total_bases
+MID6
+replicate
+April(filter_blank)_barcode
+TAAGGCGA
+CTCTCTAT
+secondary_run_name
+channelnumtotal
+run_ID
+ACAAGGC
+Quaity scores
+Planned read length (bp) for mate 1
+AAB_Post_LastNeg
+collection date
+collection_protocol
+MID11/sequence/data label/description
+SampeID
+project_name
+Tumor Number
+no calls
+MID10/sequence/data label/description
+HISeq_address_sort
+Cell Index
+FLOW_SEQUENCE
+Pipeline_Version
+reference_assembly
+temperature
+seq_lab
+flowcell_barcode
+AAB_Level
+channelspeedeventspersecond
+Y total reads
+birth_date
+Tech_rep_exists
+sRNA-spike-Control-rep2.fq.gz
+sequencing_kit
+seq_run
+cell_movies
+sequencing date
+Channels in reads
+mixed library PMA2 24h linker
+tissue
+dangling_references
+IC85 of the adapted drug [mg/l]
+publication_library_number
+platform
+research_project_name
+initiative
+reverse_read_length
+PostAbxExposure
+visit
+Instrument model
+STRAIN
+Cultivar
+nuclease
+MID2
+work_request_id
+filetpe2
+﻿biosample_accession
+bacteria 806R
+flow_count
+actual_reverse_read_length
+assembly
+RUN-TITLE
+collection_number
+read_group_ids
+filename3
+treatment
+SPUID
+product_part_number
+TCCTGAGC
+bioproject-accession
+AACCAGC
+Nominal size (bp)
+#_of_100µL_PCR_reactions
+inactive_location_URL
+Pre-ligation DNA Quantification
+disease
+age
+MD5 checksum
+T1D_Status
+biosample_accessin_15
+quality_scoring_system
+regon_id
+Tissue
+TruSeq_Adapter_Index_2
+md5_sum
+Post processing
+MD5_checksum_1
+HLA_Risk_Class
+mixed library PMA2 96h replicate 2 linker
+project_title
+AGGCAGAA
+analysis_version
+AAB_Post_FistPos
+lsid
+mixed library LPS 12h linker
+machine_id
+Reference DOI
+screened
+ICA_Level_Bin
+household
+"2018-05-15"
+Library Construction/ Experimental Design
+BI work request IDs
+Fish
+Subject_number
+Rice
+biosample_accession_7
+BarcodeSequence
+sample_type
+individual.1mom.2inf.
+BarCode
+Primer
+READ_INDEX 2 linker
+run_start_dt
+sra_accession
+mean_insert_size
+machine_ID
+Wheat
+Country
+Solid_Food
+Capital Biosciences ID
+file_name represents
+filename4
+analysisagent_name
+read_group_platform_unit
+Y length coverage
+biomaterial_provider
+Soy_Prod
+sequencing_facility
+qscore
+Read Info
+md5_filename2
+IA2A_Level
+Illumina Run IDs
+health_state
+Total  bases
+research_project
+missing_file
+Organism
+sex
+Oat
+Analysis Name
+MID5
+adapter_barcode_ID
+md52
+Submitted by
+BI Molecular Barcode
+Pre-Sequencing Mix DNA Quantification
+breeding_history
+ICA_Positive
+analysis_type
+BI Task Name
+reference_genome_assembly
+MD5_checksum4
+gutsite
+Illumina_sequencing_lane
+filetpe
+cell_zmw_sets
+molecular_idx_scheme
+MID6/sequence/data label/description
+MID
+time_point
+Run Name
+sra_title
+biosample_accessin_17
+sequencing_centre
+cell_type
+software
+Biosample
+mixed library LPS 2h linker
+BI Colombo Molecular Barcode
+sample_name
+Sequencing date
+SampleID
+Illumina_i5_index
+root_sample_ids
+device_id
+_A
+biosample_accession_3
+Image analysis and base calling
+read_name_barcode_proc_directive
+forward_read_length
+Fruits_Berries
+biosample_accessin_8
+study_day
+SeqFileID
+mixed library PMA2 96h replicate 1 linker
+PlateWellCollection Movies
+breed
+read_lengths
+reverse_PCR_primer_targe_location
+QUALITY_SCORES_PROGRAM_WITH_VERSION
+md5 checksum
+barcode
+filename
+cell
+Description
+Name
+?bioproject_accession
+biosample_name
+marc phase
+submission
+env_material
+E-all yield (M)
+Y length coverage %
+Value3
+Barcode Sequence
+BF_Exclusive_Duration
+md5 Checksum (filename4)
+BI run name
+flow_sequence
+cDNA concentration
+Attribute3
+seq_center
+BF
+Container_2
+linker
+ISATAB submission id
+CAAGAAC
+Tamarix
+Submitters
+BioProject id
+Pipeline
+#SampleID
+i7seq
+USUBJID
+data_type
+MD5_checksum
+sample type
+label
+precocious juvenile crab
+organism
+mixed library PMA1 0h linker
+titration
+ENA-BASE-COUNT
+sequencing protocol
+IAA_Level_Bin
+MID7/sequence/data label/description
+SRX1856862
+specimen_voucher
+Age_at_Collection
+reverse_primer
+BI Run Barcode
+MID9/sequence/data label/description
+*ACTCAC
+number of reads in fail folder (arq)
+marc_run_id
+Tax ID
+Cereal
+Fungal ITS4
+molecular_indexing_scheme
+number of restarts
+ENZYME
+BF_Long_Term
+TGACGAC
+Filename4
+read group platform unit
+pacbio_rs_sequencing_kit_barcode
+host_subject_id
+forward_PCR_primer_target_location
+MD5_checksum_2
+BI Nicosia Molecular Barcode
+BI sample barcode
+FLOWCELL
+Filename3
+resistance_profiling
+INDEX
+fastq_encoding
+phenotype
+BI Run Name
+plate_id
+Ambion ID
+options
+ENA-SPOT-COUNT
+collected_by
+Day
+secondary accessions
+Number_of_tumors_dissected_out
+library_type
+BioInvestigation Index submission identifier
+title
+disease_stage
+File Alias
+biosample_accessin_13
+MID10
+sample name
+patientID
+IsolationMethod
+analysis
+number of reads in fail folder
+md5 Checksum (filename1)
+read_group_id
+Sequenced_Date
+actual_read_length 
+NonStandardReadNameUsed
+AGAGTAGA
+instrument_names
+RNAseq of Phaeodactylum tricornutum at different CO1
+Breed
+actual_read_length
+Lane
+SurfaceToScan
+number of reads in pass folder (arq)
+read_length_mate2
+latitude and longitude
+hold until date
+LIBRARY
+Depth
+Age_at_Seroconversion
+env_biome
+MID4/sequence/data label/description
+BI Project Names
+*CGACTC
+AbxAtCollection
+Species
+Treatment
+PacBio RS sequencing kit Barcode
+basecalling
+md54
+pool
+read_length
+cultivar
+HWB2IP203.26.fastq
+Title
+total_reads_passing_qc_filter
+note
+Runs
+expscript_purpose
+run_duration_hrs
+FoodCenter
+position_id
+libray_name
+Total bases
+Accession
+md5
+sequencing _platform
+MID.ID library
+complete_sequences
+available channels
+Call date
+coverage
+mixed library PMA1 12h linker
+Strobe #
+April_rainwater_barcode
+May(filter_blank)_barcode
+checksum_method
+file_type
+GADA_Positive
+sponge_individual
+instrument_model
+filname2
+MECFSIBS2_MECFSwoIBS1_CONTROL0
+basecaller_version
+Rye
+AvgReadLength
+alignment_software
+TCAG
+BI Work Request IDs
+July_rainwater(incubated)_barcode
+SLIDE
+silage_type
+folder
+MD5_checksum1
+DNA Extraction Protocol
+Accession Study
+collected by
+sample
+a
+nominal_length
+geographic_location
+Mbases
+Total spots
+TAGGCATG
+﻿bioproject_accession
+Distance from the well (m)
+mixed library LPS 4h linker
+ENA_REFERENCE_URL
+BASE_CALLS_PROGRAM_WITH_VERSION
+Target Site Name
+paired-end
+mixed library PMA1 2h linker
+Toxins_Profiling
+cell_line
+MD5 file1
+BI GSSR sample IDs
+flow cell serial number
+notes
+BI Copenhagen Molecular Barcode
+BI project names
+DRS
+GGACTCCT
+RUN_ID
+Planned read length (bp) for mate 2
+Sequencing Dates
+lsids
+exp
+title/short description
+chimaera_version
+seq_url
+MECFS1_CONTROL0
+loder
+timepoint
+rg_platform_unit
+sequence_run_ID
+covanceID
+Adapter
+sample_number
+root_sample_id
+BI Amsterdam Molecular Barcode
+MID7
+Time_to_Seroconversion
+IA2A_Level_Bin
+plate_name
+Y unmapped reads
+store_cond
+md53
+TPA_assembly
+desing_description
+File_name
+biosample_accession2
+sample_id
+FLOW-COUNT
+TAATCTC
+Clipped Barcode
+biosample_accession_4
+Spacer Sequence
+BI work request ID
+EightPac Barcode
+July(filter_blank)_barcode
+Y length coverage for age
+object_status
+Patient ID
+seqfile_frag
+channels in reads
+reference_genome_assembly (or accession)
+BF_Exclusive_Positive
+md5 Checksum (filename2)
+marine bacteria
+filenam3
+Y median depth coverage
+DATA_BROKER
+SampleId
+MD5_checksum5
+PlateID
+primary_run_name
+Infant_Formula
+ENA-SUBMISSION-TOOL
+BI Project Name
+quality
+run_names
+Container_1
+Raw_reads
+Avg_Spot_Len
+adapters
+read_mask
+qual_quant
+MT length coverage %
+Accession Experiment
+quality_book_char
+mixed library PMA2 48h linker
+Run
+filename2
+bioproject_accession2
+total library dna bp count
+Exclusive_BF
+key_sequence
+total_reads
+channelpctactive
+ZNT8A_Level
+study
+MID4
+MD5_checksum2
+Case_Control
+template_amount
+CollectionProtocol
+*AAGCCGC
+PlateWellCollection Strobes
+protocols_version_name
+root_sample
+MD5_checksum3
+genotype
+Soil amendments
+longest_length
+lanes
+EXPERIMENT_TYPE
+Milk_Prod
+physical_linkage
+experiment
+TCGA BCR Aliquot Barcode
+assembly_file
+total library event count
+GRIN
+ZMW Set #
+mixed library LPS 0h linker
+pacbio_rs_sequencing_kit
+insertsize
+filename1
+s_number_within_run
+porepctactive
+biosample_accessin_16
+MD5_checksum6
+ExpectedBasecallTableInAttribute
+eight_pac_barcode
+AAB_positive
+sample_barcode
+MID8
+flowcell_id
+Viral_dilution
+insert_size
+Accession sample
+run_center
+site
+Bacteria of fermented skate from Naju
+source_ena_run_accession
+Illumina HiSeq 1000
+publication_library_name
+MID32
+call date
+bioproject_accession
+bascaller_config
+total_runs
+Number of reads in fail folder (ARQ)
+Delivery_Route
+size_and_layout_of_picotiterplate
+Nutrient
+Sample Number
+enve-omics ID
+Resistance_Profiling
+devicespeedMeventsperhour
+biosample_accessin_12
+SEQUENCING CENTER
+all reads were sorted
+flowcell_version
+controlpanel_version
+barcode_seq
+ZNT8A_Positive
+Planned read length (bp) for file1
+MD5sum
+INSTRUMENT_NAME
+id_of_sequencing_run
+MD5 file2
+Illumina_i7_index
+experiment_date
+Filename 1
+Linker_max_mismatch
+Run ID
+controlpanel_name
+GADA_Level
+BI Kathmandu Molecular Barcode
+Flowcell
+Sequenced Date
+*AGCTTC
+Attribute2
+name
+messages
+batch
+run_barcode
+file_name
+N_cells
+ont_run_id
+eventdetection_version
+Tag
+seq_chemistry
+MD5_checksum_filename2
+lane_index
+fileman5
+host
+design_description
+cell_strobes
+dna extraction protocol
+channelnumactive
+growth_protocol
+Bacteria of skate from Naju
+biosample_accessin_11
+Nuclease
+Sample Name
+md5hash_filename
+Fungal ITS1f
+run center
+Reloading of Reagents
+Eggs
+samp_mat_process
+total library read count
+collection_date
+Total Library Read count
+Bacteria of Internal organs  of skate from Naju
+run_type
+product_order
+Vilnius
+test_column
+T
+IllnessAtCollection
+biosample_accession3
+dent
+strain
+channelsyielding1readonly
+processing_location
+kit
+eventdetection_name
+sequencingRun
+fwd_rev_read
+instrument_name
+lane
+Illumina GAII
+MD5 Checksum
+Total Library DNA bp count
+BarCode_max_mismatch
+Reads
+target_substrate
+BI GSSR Sample ID
+molecular_indexing_schemes
+N_cell
+cellline
+IAA_Positive
+April_rainwater(incubated)_barcode
+culture_collection
+host_disease
+ICA_Level
+Attribute1
+md5_filename
+MID13
+MD5checksum1
+breeding_method
+crossoverTreatment
+Bases
+seed development stage
+filetype
+file2-md5
+HAIB_library_number
+Selection
+Assembly
+exptscript_name
+MiSeqRun
+MID3/sequence/data label/description
+library_construction_protocol
+Collection_Location
+assambly
+run
+projects
+Alignment Provider
+intentional_duplicate
+MD5_checksum_filename
+analysis_name
+Total Library Event count
+spacer sequence
+ENA_ALIGNER
+remap
+Note
+Date
+MT one read positions
+Sample_name
+biosample_accession_5
+BI GSSR Sample IDs
+Read Group Platform Unit
+May_rainwater(incubated)_barcode
+biosample_accessin_9
+MID8/sequence/data label/description
+minknow version
+typeScoring
+individual_ID
+Growth condition
+link_name
+Primer_max_mismatch
+Location
+MID9
+normally developed juvenile crab
+MD5 checksum2
+submission_id
+BI GSSR sample LSIDs
+run_duration_text
+md5sum
+ecotype
+run barcode
+porenumactive
+Post_T1D_Diag
+IAA_Level
+sample_ID
+BI GSSR sample LSID
+Barcode
